@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JackMagenta
+- 👀 I’m interested in combining biotech and translational medicine with the principles of coding
+- 🌱 I’m currently taking my first baby steps into coding
